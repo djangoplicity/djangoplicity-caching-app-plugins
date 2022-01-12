@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
-Name: django-caching-app-plugins
+Name: djangoplicity-caching-app-plugins
 Version: 0.1.6
 Summary: UNKNOWN
-Home-page: http://bitbucket.org/bkroeze/django-caching-app-plugins
+Home-page: https://github.com/djangoplicity/djangoplicity-caching-app-plugins
 Author: Bruce Kroeze
 Author-email: bruce@ecomsmith.com
 License: UNKNOWN

@@ -8,6 +8,7 @@ setup(
     author='Bruce Kroeze',
     author_email='bruce@ecomsmith.com',
     url='https://github.com/djangoplicity/djangoplicity-caching-app-plugins',
+    download_url = 'https://github.com/djangoplicity/djangoplicity-caching-app-plugins/archive/refs/tags/0.1.6.tar.gz',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
